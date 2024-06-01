@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanathPSuvarna
-- 👀 I’m interested in CS and Everything around it 
-- 🌱 I’m currently studying CS 
+- 👀 I’m interested in full stack and Everything around it 
+   
 
 <!---
 sanathPSuvarna/sanathPSuvarna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
